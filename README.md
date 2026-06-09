@@ -5,7 +5,7 @@
 #Team Members:
 - Nina Poggi
 - Giovanny Lahera 
-- Christopher Mosquera
+- Christian Mosquera
 
 #Project Goals:
 - Add records
